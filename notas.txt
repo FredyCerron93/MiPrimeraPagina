@@ -1,0 +1,5 @@
+para patrones de diseños
+heropatterns.com
+
+para cambiar los estilos de la fuente
+buscar: fonts.google.Oswald
