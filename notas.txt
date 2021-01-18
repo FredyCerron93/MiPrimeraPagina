@@ -3,3 +3,9 @@ heropatterns.com
 
 para cambiar los estilos de la fuente
 buscar: fonts.google.Oswald
+
+Efecto de aparecion de los elementos a medida nos movemos en la pantalla
+scrollreveal
+
+por ultimo, contratar un servicio de hosting
+SiteGround
